@@ -23,7 +23,7 @@ function respondJson(req, res) {
 
 function respondSalinha(req, res) {
   res.setHeader("Content-Type", "text/plain");
-  res.end("Hi Salinha, I love you forever");
+  res.end("What's up");
 }
 
 function responseNotFound(req, res) {
