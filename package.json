@@ -1,0 +1,22 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "I am learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialshadon/Robot-Automation.git"
+  },
+  "author": "Nnaemeka Onyeokoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officialshadon/Robot-Automation/issues"
+  },
+  "homepage": "https://github.com/officialshadon/Robot-Automation#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
